@@ -9,11 +9,9 @@ A passionate software engineer who believes in the motto: **"No Code, No Life"**
 | Language      | Technologies & Frameworks      |
 |---------------|--------------------------------|
 | **Java** | Spring Boot, Maven, JPA/Hibernate, JUnit |
-| **JavaScript**| Node.js, React, Vue.js, Express.js |
-| **Databases** | MySQL, PostgreSQL, MongoDB      |
-| **Tools** | Git, Docker, Jenkins, Postman   |
-
-*... feel free to add or remove technologies you know!*
+| **JavaScript**| Node.js, React, Express.js |
+| **Databases** | MySQL, Oracle SQL, MongoDB      |
+| **Tools** | Git, Docker, Postman   |
 
 ---
 
