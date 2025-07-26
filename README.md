@@ -1,15 +1,35 @@
+# 👋 Hi, I'm Reach
 
-<!---
-reach009/reach009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A passionate software engineer who believes in the motto: **"No Code, No Life"**. I specialise in building solutions with Java and JavaScript, and I'm always searching for my next challenge.
 
-👋 Hi, I’m @reach009
+---
 
-👨‍💻 Motto - No Code No Life
+### 🌱 My Tech Stack
 
-🌱 Technologies - Java and JavaScript
+| Language      | Technologies & Frameworks      |
+|---------------|--------------------------------|
+| **Java** | Spring Boot, Maven, JPA/Hibernate, JUnit |
+| **JavaScript**| Node.js, React, Vue.js, Express.js |
+| **Databases** | MySQL, PostgreSQL, MongoDB      |
+| **Tools** | Git, Docker, Jenkins, Postman   |
 
-💞️ Collaboration - any projects that are interesting and worth our time to invest. It can be an open source or a project which can help the society. 
+*... feel free to add or remove technologies you know!*
 
-📫 sovanreach.c007@gmail.com 
+---
+
+### 💞️ I'm Looking to Collaborate On...
+
+I'm excited to collaborate on innovative projects that are both interesting and impactful. I have a special interest in:
+- **Open-source tools** that help developers.
+- **Projects with a social mission** that can benefit a community.
+
+If you have an idea, feel free to reach out!
+
+---
+
+### 📫 How to Reach Me
+
+- **Email:** `sovanreach.c007@gmail.com`
+- **LinkedIn:** `https://www.linkedin.com/in/sovanreach-chea-009/`
+
+---
